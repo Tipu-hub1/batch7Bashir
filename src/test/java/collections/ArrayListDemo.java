@@ -12,9 +12,12 @@ ArrayList is not fixed. it is dynamic
 Arraylist can hold duplicate value
 ArrayList follows insertion order
  */
+
+    public void arrayGitChange(){
+        System.out.println("Made changes for git practice");
+    }
+
     public void arrayListPractice(){
-
-
 
 //        String name[] = {"Ashraf", "Sumaia", "Jewel", "Rupok"};
 //
